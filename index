@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>profile Mahasiswa - Linggar.P.M</title>
+        <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEumIW_4MkoROwoz5iCOKq_Q0BASoGRXB_fJzzK1CMD6lGyR6jRTULROk&s=10">
+        <meta name="author" content="AKEW">
+        <meta name="keywords" content="biodata">
+        <meta name="description" content="bio">
+    </head>
+    <body>
+        <h1>Linggar Panggugah Mulyadi</h1>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08nAF-fUeSSK7JrteiwtK9Xn57e_-xwCrCkdd6owbudzd8OyNmisNhO8&s=10" alt="foto profile" width="200">
+            <h2>Biodata</h2>
+    <table border="1" cellpadding="5" cellspacing="0">
+        <tr>
+            <th>NIM</th>
+            <td>2511080022</td>
+        </tr>
+        <tr>
+            <th>Program Studi</th>
+            <td>KDG</td>
+        </tr>
+        <tr>
+            <th>Tanggal Lahir</th>
+            <td>31 mei 2006</td>
+        </tr>
+        <tr>
+            <th>Alamat</th>
+            <td>semplak ATS, caringin 1 </td>
+        </tr>
+    </table>
+    <h2>Hobi</h2>
+    <ul>
+        <li>main game</li>
+        <li>menggambar</li>
+    </ul>
+    <h2>Media Sosial</h2> 
+    <p>
+      <a href="https://www.instagram.com/bjngpapa?igsh=djZiNGZsZXF5dTRp" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdKy-TipF7KlEAoktbFEhNgdRuCwdD-4GJQ&s"
+        alt="instagram" width="20">Instagram</a>
+        <a href="https://www.tiktok.com/@linggar_315?_t=ZS-8zDxrLBZayu&_r=1" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo9V3M47sSWVPumrWnffX9vlFYNNuoLJwCwcwA7vGRwJ6ZtyW6kiFgQTH&s=10" alt="Tiktok" width="20">Tiktok
+        </a>
+        <br>
+        <h3>jangan lupa follow <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1jMxQiBRqHcz8vAUSNc0SFu5PmeI7LpyK775rqrYWPzF48fMucrJYAb6&s=10" alt="okey" width="62">
+        </h3>
+    </p>
+    </body>
+</html>
